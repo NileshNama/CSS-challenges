@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+}
+
+a+ul>li{
+   display: none;
+}
+a+ul:hover{
+    display: inline;
+}
+
+body>ul{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 0 auto;
+    padding:0px 30px;
+    background-color: rgb(102,102,102);
+}
+
+body>ul>li{
+    list-style-type: none;
+    color:rgb(255,255,255);
+    font-family: sans-serif;
+    font-weight: 600;
+    /* margin-right: 80px; */
+    padding: 10px 60px;
+}
+body>ul>li:hover{
+ background-color:rgb(248,203,179) ;
+}
+
+body>ul>li>a:hover + a+ul>li{
+    display:block;
+}
+body>ul>li+li>a:hover + a+ul>li{
+    display:block;
+}
