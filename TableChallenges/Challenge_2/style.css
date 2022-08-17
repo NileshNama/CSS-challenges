@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+table,td,th{
+    border:2px solid #fff
+}
+th{
+color:red
+}
+table{
+    background-color: rgb(160,252,214);
+    width: 40%;
+    height: 50%;
+}
+#myTable{
+    background-color: rgb(160,252,214);
+}
+caption+tr+tr+tr>th+td+td+td{
+    background-color: darkmagenta !important;
+}
+caption{
+    position: relative;
+    top:300px
+}
+.bg-color{
+    background-color: rgb(156,170,201);
+}
