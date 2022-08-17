@@ -1,0 +1,24 @@
+body{
+    background-color:#fff;
+}
+nav{
+    background-color:rgb(22,27,31) ;
+    width:40%;
+    padding:15px 20px;
+    border-radius:8px;
+    margin:20% auto;
+}
+a{
+    text-decoration: none;
+    color:rgb(166,163,152);
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left:20px;
+    margin-right: 20px;
+}
+nav:last-child{
+    margin:0px;
+}
+a:hover{
+   color:rgb(114,245,188)
+}
