@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(210,222,223);
+}
+
+.btn-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:500px;
+}
+
+.btn{
+    background-color:rgb(22,45,97);
+    color:#fff;
+    border-radius: 35px;
+    padding:20px 45px;
+    font-size:20px;
+    box-shadow: 1px 2px 11px 4px rgb(166 169 167);
+    border:none;
+    outline:none;
+}
