@@ -1,8 +1,9 @@
 # Css Challenges 
 
-- This file consists of different folders & subfolders having multiple html & css files
+<a href="https://github.com/NileshNama/CSS-challenges" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185162683-f577341c-e3dd-486b-b32b-1e1dbcb8192d.png" alt="CSS Challanges" width="400" border="10" /> </a> 
 
-various folders like :
+
+## repo consist css challenges 
 
 - Button Challenges
 - Footer section
@@ -10,4 +11,4 @@ various folders like :
 - NavbarChallenges
 - TableChallenges
 
-I mainly tasked to complete css styling for all the respective html pages .
+
