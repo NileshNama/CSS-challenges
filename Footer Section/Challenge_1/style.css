@@ -1,0 +1,46 @@
+body{
+    background-color: #FFF;
+}
+
+.heading{
+    font-family: sans-serif;
+    margin-left: 110px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    margin:0px 100px;
+
+}
+.services, .social-media,.links,.details{
+    display:flex;
+    flex-direction: column;
+}
+
+.services{
+    flex:2;
+}
+.social-media{
+    flex:1.5;
+}
+.links{
+    flex:1.5;
+}
+
+.details{
+    flex:2
+}
+
+a{
+    text-decoration: none;
+    color:rgb(0,0,0);
+    
+}
+
+footer{
+    text-align:center;
+}
+
+hr{
+margin-bottom: 30px;
+}
